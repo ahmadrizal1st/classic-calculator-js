@@ -1,6 +1,6 @@
-# BMI Calculator - JavaScript
+# Classic Calculator - JavaScript
 
-A simple Body Mass Index (BMI) calculator built using HTML, CSS, and JavaScript.
+A simple Classic Calculator built using HTML, CSS, and JavaScript.
 
 ## 🚀 Clone the Repository
 
